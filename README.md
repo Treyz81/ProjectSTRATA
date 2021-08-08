@@ -1,2 +1,2 @@
 # ProjectSTRATA
-Contains important data related to STRATA Token
+This repository contains important data related to STRATA Token.
